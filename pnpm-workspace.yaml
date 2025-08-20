@@ -51,7 +51,7 @@ catalogs:
     fuse.js: ^7.1.0
     katex: ^0.16.22
     lz-string: ^1.5.0
-    mermaid: ^11.9.0
+    mermaid: ^11.10.0
     nanotar: ^0.2.0
     plantuml-encoder: ^1.4.0
     prettier: ^3.6.2
