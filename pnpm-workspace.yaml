@@ -124,7 +124,7 @@ catalogs:
     vite: ^7.0.6
     vite-plugin-inspect: ^11.3.2
     vite-plugin-remote-assets: ^2.0.0
-    vite-plugin-static-copy: ^3.1.1
+    vite-plugin-static-copy: ^3.1.2
     vite-plugin-vue-server-ref: ^1.0.0
     yaml: ^2.8.0
     yargs: ^18.0.0
