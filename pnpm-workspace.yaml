@@ -112,7 +112,7 @@ catalogs:
     local-pkg: ^1.1.2
     magic-string: ^0.30.21
     magic-string-stack: ^1.1.0
-    markdown-it: ^14.1.0
+    markdown-it: ^14.1.1
     markdown-it-footnote: ^4.0.0
     markdown-it-mdc: ^0.2.8
     minimist: ^1.2.8
